@@ -1,0 +1,253 @@
+   {
+      "basics": {
+        "name": "Gbala Guy Marius",
+        "label": "Ingénieur DevSecOps Junior",
+        "image": "/marius.jpg",
+        "email": "Guy.marius.ru",
+        "phone": "+79028435442",
+        "url": "https://github.com/guymariusgbala",
+        "summary": "Ingénieur DevSecOps passionné par la sécurité informatique, avec des compétences en tests d'intrusion, gestion des vulnérabilités, et sécurité des infrastructures. Certifié en cybersécurité avec une expertise dans l'automatisation des processus de sécurité et l'intégration de la sécurité dans les pipelines DevOps.",
+        "theme": "blue",
+        "location": {
+          "address": "Rue 3 juillet 16, Briansk",
+          "postalCode": "241007",
+          "city": "Briansk",
+          "countryCode": "RU",
+          "region": "Russie"
+        },
+        "profiles": [
+          {
+            "network": "LinkedIn",
+            "username": "Gbala Guy Marius",
+            "url": "linkedin.com/in/guy-marius-g"
+          },
+          {
+            "network": "X",
+            "username": "",
+            "url": ""
+          },
+          {
+            "network": "GitHub",
+            "username": "manforcomputer",
+            "url": "https://github.com/manforcomputer"
+          }
+        ]
+      },
+      "work": [
+        {
+          "name": "TryHackMe",
+          "position": "Formation continue en Cybersécurité",
+          "location_type": "En ligne",
+          "location": "À distance",
+          "url": "https://tryhackme.com",
+          "startDate": "2022-09-17",
+          "endDate": null,
+          "summary": "Formation spécialisée dans le Pentesting, l'analyse des vulnérabilités, et la gestion des incidents de sécurité. Application pratique de techniques avancées de hacking éthique pour renforcer la sécurité des infrastructures.",
+          "highlights": [
+            "Formation sur les méthodologies de tests d'intrusion et la gestion des vulnérabilités, Mise en œuvre de solutions de sécurité dans des environnements DevSecOps"
+            
+          ],
+          "responsibilities": [
+            "Analyse et exploitation des vulnérabilités dans des environnements simulés.",
+            "Développement de scripts Python pour l'automatisation des tests de sécurité.",
+            "Collaboration avec des équipes de développement pour améliorer les pratiques de sécurité."
+          ],
+          
+          
+          "skills": [
+            "Metasploit",
+            "Nmap",
+            "Wireshark",
+            "Python",
+            "DevSecOps"
+          ]
+    
+        },
+        {
+          "name": "HackTheBox",
+          "position": "Environnement de Pentesting Pratique",
+          "location_type": "À distance",
+          "location": "À distance",
+          "url": "https://hackthebox.com/",
+          "startDate": "2022-05-03",
+          "endDate": null,
+          "summary": "Plateforme de tests d'intrusion en environnement réel, permettant de simuler des attaques et d'analyser les systèmes en profondeur.",
+          "highlights": [
+            "Exploitation des vulnérabilités Zero-Day et test de la sécurité des réseaux, Intégration des concepts DevSecOps dans les tests et l'analyse"
+          ],
+          "responsibilities": [
+            "Réalisation de tests d'intrusion sur des machines virtuelles.",
+            "Exploitation des vulnérabilités pour accéder à des systèmes et obtenir des privilèges d'administrateur.",
+            "Rédaction de rapports détaillant les failles découvertes et leurs solutions de correction."
+          ],
+          "skills": [
+            "Pentesting",
+            "Exploitation de vulnérabilités",
+            "Rédaction de rapports",
+            "DevSecOps"
+          ]
+        }
+       
+      ],
+      "education": [
+        {
+          "institution": "SkillFactory",
+          "url": "https://skillfactory.com",
+          "area": "Cybersécurité",
+          "studyType": "En ligne",
+          "startDate": "2022-11-17",
+          "endDate": "2024-01-17",
+          "courses": [
+            "Principes de la cybersécurité",
+            "Sécurité des réseaux",
+            "Sécurité web",
+            "Tests d'intrusion",
+            "Cryptographie",
+            "Gestion des incidents"
+          ]
+        },
+        {
+          "institution": "TryHackMe",
+          "url": "https://tryhackme.com",
+          "area": "DevSecOps",
+          "studyType": "Formation continue",
+          "startDate": "2022-12-17",
+          "endDate": "2024-01-17",
+          "courses": [
+            "Jr Penetration Tester",
+            "Sécurisation des infrastructures DevOps",
+            "Automatisation des tests de sécurité"
+          ]
+        }
+      ],
+      "certificates": [
+        {
+          "name": "Jr Penetration Tester Learning Path",
+          "date": "Février 2024",
+          "issuer": "TryHackMe",
+          "url": "https://tryhackme.com/certificate/jr-penetration-tester"
+    
+        },
+        {
+          "name": "Web Fundamentals Learning Path",
+          "date": "Octobre 2024",
+          "issuer": "TryHackMe",
+          "url": "https://tryhackme.com/certificate/Web Fundamentals"
+        },
+        {
+          "name": "Offensive Pentesting Learning Path",
+          "date": "Octobre 2024",
+          "issuer": "TryHackMe",
+          "url": "https://tryhackme.com/certificate/Offensive Pentesting"
+        },
+        {
+          "name": "White Hat Hacker / Penetration Tester / Security Researcher",
+          "date": "Janvier 2024",
+          "issuer": "SkillFactory",
+          "url": "https://skillfactory.com/certificates/white-hat-hacker"
+        },
+        {
+          "name": "Introduction to Cyber Security",
+          "date": "Octobre 2023",
+          "issuer": "TryHackMe",
+          "url": "https://tryhackme.com/certificate/intro-to-cyber-security"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Pentesting",
+          "level": "Avancé",
+          "keywords": [
+            "Metasploit",
+            "Nmap",
+            "BurpSuite",
+            "Exploitation de vulnérabilités"
+          ]
+        },
+        {
+          "name": "DevSecOps",
+          "level": "Intermédiaire",
+          "keywords": [
+            "Sécurisation des pipelines CI/CD",
+            "Automatisation des tests de sécurité",
+            "Docker",
+            "Kubernetes"
+          ]
+        },
+        {
+          "name": "Langages de programmation",
+          "level": "Intermédiaire",
+          "keywords": [
+            "Python",
+            "Bash"
+          ]
+        },
+        {
+          "name": "Sécurité des réseaux",
+          "level": "Avancé",
+          "keywords": [
+            "Wireshark",
+            "Analyse des paquets réseau",
+            "Sécurisation des infrastructures"
+          ]
+        },
+        {
+          "name": "Cryptographie",
+          "level": "Intermédiaire",
+          "keywords": [
+            "Chiffrement",
+            "Gestion des clés",
+            "Protocoles sécurisés"
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "fluency": "Intermediaire"
+        },
+        {
+          "language": "Français",
+          "fluency": "Langue maternelle"
+        },
+        {
+           "language": "Russe",
+          "fluency": "Courant"
+        }
+      ],
+      "interests": [
+        {
+          "name": "Technology",
+          "keywords": [
+            "AI",
+            "Blockchain"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "name": "Jane Smith",
+          "reference": "Reference…"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Test d'intrusion sur réseaux internes",
+          "isActive": true,
+          "description": "Réalisation de tests d'intrusion pour identifier les vulnérabilités des réseaux internes d'une entreprise et proposer des solutions de sécurisation.",
+          "highlights": [
+            "Utilisation de Metasploit et Nmap pour l'analyse des réseaux",
+            "Réduction de la surface d'attaque et renforcement de la sécurité"
+          ]
+        },
+        {
+          "name": "Automatisation des tests de sécurité",
+          "isActive": true,
+          "description": "Développement de scripts Python pour automatiser les tests de sécurité dans les pipelines DevSecOps.",
+          "highlights": [
+            "Création de scripts d'analyse de vulnérabilités",
+            "Automatisation de la mise à jour des outils de sécurité"
+          ] 
+        }
+      ]
+    }
